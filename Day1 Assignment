@@ -1,0 +1,34 @@
+What is your Understanding of Blockchain?
+Blockchain is mixture of distributed database in the form of blocks which is further applied with cryptography to make it secure, tamper-proof, unchangeable, verifiabl
+and immutable by encrypting it with algorithms like SHA256, etc. It keeps the record of all the transaction that take place in secure,chronological and immutable manner.
+The data is decentralized and distributed in various part of the world.
+
+What core problems is blockchain trying to solve?
+1. Currency transaction support - Avoiding third party to handle our data and even keeping our personal information safe with us we can transfer money(cryptocurrency) through
+blockchain currency to any part of the world by keeping it secure. We dont have to rely on third party like Paypal to do transactios for us, also they charge heavy fees.
+2. Supply Chains and item histories - While buying goods through blockchain we can actually trace all the history of the goods by tracing its histroy like from where the products
+come? The quality of product? Who is the manufacturer? etc.
+3.Voting - Since blockchain is highly secured with its legitimacy and authenticity we can use this technology in the field of elections to get unbaised results as tampering the 
+data is not possible.
+4. Government Operations - The increased transparency in decentralized network will help us to increase the overall integrity and through this technology we can track the use
+of people's money and make sure that the funds are managed ethically.
+5. Cloud storage - Through decentralization we can imporve security of our data and need not have to store all our data at one single place. Also we can make our acess to
+private by which only we can acess our data.
+
+Features of blockchain?
+1. Decentralized data
+2.Cannot be corrupted
+3.Enhanced Security
+4.Distributed ledgers
+5.Immutable
+
+What things does blockchain contain?
+1.Block number
+2.Transaction Records
+3.Previous block Signature
+4.Mining key
+
+How is verifiablity attained ?
+Let's consider an example with a game in which there are 10 people. A letter with a message and a key is sent to each of them. Then each person is asked to read out the key
+if 8 of them have the keys same and 2 of them's key vary then they are asked to verify their data (letter) and thats how verifiability is achieved in blockchain. The commutiy keeps 
+verifying the data with each other..
